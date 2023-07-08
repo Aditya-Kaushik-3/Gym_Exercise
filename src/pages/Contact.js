@@ -21,10 +21,9 @@ const Contact = () => {
       <Box sx={{ my: 5, ml: 10, "& h4": { fontWeight: "bold", mb: 2 } }}>
         <Typography variant="h4">Contact My Resturant</Typography>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem odio
-          beatae ducimus magni nobis culpa praesentium velit expedita quae,
-          corrupti, pariatur inventore laboriosam consectetur modi impedit
-          error, repudiandae obcaecati doloribus.
+        We are excited to hear from you! If you have any questions, 
+        feedback, or would like to make a reservation, please feel free to 
+        reach out to us using the contact information below:
         </p>
       </Box>
       <Box
@@ -58,12 +57,12 @@ const Contact = () => {
               </TableRow>
               <TableRow>
                 <TableCell>
-                  <MailIcon sx={{ color: "skyblue", pt: 1 }} /> help@myrest.com
+                  <MailIcon sx={{ color: "skyblue", pt: 1 }} /> help@aditya.kaushik.com
                 </TableCell>
               </TableRow>
               <TableRow>
                 <TableCell>
-                  <CallIcon sx={{ color: "green", pt: 1 }} /> 1234567890
+                  <CallIcon sx={{ color: "green", pt: 1 }} /> +9876543210
                 </TableCell>
               </TableRow>
             </TableBody>
